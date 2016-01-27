@@ -33,12 +33,12 @@ ul,label{
 }
 /*----start-container---*/
 .logo{
-  height: 99px;
-  /*width: 270px;*/
+  height: 169px;
+  width: 270px;
 
   background-color: #00aeff; 
 
-  /*float:left;*/
+  float:left;
   margin-right:2em;
 
   text-align: center;
@@ -70,7 +70,7 @@ ul,label{
 .top-menu{
 float:left;
 width:40%;
-/*margin-top:3.5em;*/
+margin-top:3.5em;
 }
 .search {
 width: 55%;
