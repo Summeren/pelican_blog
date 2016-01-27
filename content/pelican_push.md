@@ -5,7 +5,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: my-pelican-blog
 Authors: Apple
-Image: https://github.com/Samael500/w3-personal-blog/raw/master/readme_img/article_info.png
+Image: 
 Summary:
     那么，到底该怎么发布博客呢？
 

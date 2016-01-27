@@ -2,4 +2,4 @@ output/
 *.pid
 *.pyc
 *.pid
-
+*.md~

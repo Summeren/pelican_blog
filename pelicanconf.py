@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'heng'
-SITENAME = u'heng'
+AUTHOR = u'apple'
+SITENAME = u'apple'
 
 
 # 这里博客url
